@@ -20,15 +20,15 @@ In **Souls of Elysium** you can craft a variety of items to improve your charact
 
 ### Ingots <a href="#ingots" id="ingots"></a>
 
-| Ingot Name                                                                                | Materials                     |
-| ----------------------------------------------------------------------------------------- | ----------------------------- |
-| ![](https://wiki.soerpg.com/lib/exe/fetch.php?media=crafting:copper_bar.png) Copper Bar   | 2 Copper Ore, 10gp            |
-| ![](https://wiki.soerpg.com/lib/exe/fetch.php?media=crafting:iron_bar.png) Iron Bar       | 1 Iron Ore, 1 Coal, 20gp      |
-| ![](https://wiki.soerpg.com/lib/exe/fetch.php?media=crafting:gold_bar.png) Gold Bar       | 2 Gold Ore, 3 Coal, 100gp     |
-| ![](https://wiki.soerpg.com/lib/exe/fetch.php?media=crafting:mithril_bar.png) Mithril Bar | 1 Mithril Ore, 4 Coal, 200gp  |
-| ![](https://wiki.soerpg.com/lib/exe/fetch.php?media=crafting:adamant_bar.png) Adamant Bar | 1 Adamant Ore, 6 Coal. 250 gp |
-| ![](https://wiki.soerpg.com/lib/exe/fetch.php?media=crafting:rune_bar.png) Rune Bar       | 1 Rune Ore, 8 Coal, 500gp     |
-| ![](https://wiki.soerpg.com/lib/exe/fetch.php?media=crafting:magic_bar.png) Magic Bar     | 1 Magic Ore, 10 Coal, 1000gp  |
+| Ingot Name  | Materials                     |
+| ----------- | ----------------------------- |
+| Copper Bar  | 2 Copper Ore, 10gp            |
+| Iron Bar    | 1 Iron Ore, 1 Coal, 20gp      |
+| Gold Bar    | 2 Gold Ore, 3 Coal, 100gp     |
+| Mithril Bar | 1 Mithril Ore, 4 Coal, 200gp  |
+| Adamant Bar | 1 Adamant Ore, 6 Coal. 250 gp |
+| Rune Bar    | 1 Rune Ore, 8 Coal, 500gp     |
+| Magic Bar   | 1 Magic Ore, 10 Coal, 1000gp  |
 
 * For other rare items needed in Crafting, make sure to check out [Custom Items](../exploration/custom-items/#miscellaneous)!
 
@@ -200,7 +200,7 @@ In **Souls of Elysium** you can craft a variety of items to improve your charact
 | ------------------ | ------- | ------------------------------- | ---------------------------------------------- | -------- |
 | Bronze Spellbook   | 16      | Magic Level +1                  | <p>60 Copper bars.<br>1 Spellbook.</p>         | 500gp.   |
 |  Iron Spellbook    | 17      | <p>Magic Level +2<br>HP +25</p> | <p>60 Iron bars.<br>1 Bronze Spellbook.</p>    | 1000gp.  |
-|  Golden Spellbook  | 18      | <p>Magic Level +3<br>HP +30</p> | <p>60 Gold bars.<br>1 Iron Spellbook.</p>      | 3000gp.  |
+|  Golden Spellbook  | 18      | <p>Magic Level +2<br>HP +30</p> | <p>60 Gold bars.<br>1 Iron Spellbook.</p>      | 3000gp.  |
 |  Mithril Spellbook | 20      | <p>Magic Level +4<br>HP +40</p> | <p>60 Mithril bars.<br>1 Golden Spellbook.</p> | 12000gp. |
 |                    |         |                                 |                                                |          |
 
