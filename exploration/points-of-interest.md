@@ -594,13 +594,15 @@ High Scores on each server:
 
 <figure><img src="../.gitbook/assets/image (415).png" alt="" width="375"><figcaption></figcaption></figure>
 
-125. More coming soon??
+125. Xerkar Lever
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
 
 
-
+126. Coming soon?
 
 <figure><img src="../.gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
 
