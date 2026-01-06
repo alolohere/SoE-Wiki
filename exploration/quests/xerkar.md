@@ -12,7 +12,14 @@ coverY: 0
 
 <figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
-Walk into the smoke to proceed.
+Remove the Brazier to proceed.&#x20;
+
+Head to the Demon Helmet Quest Path with the side area accessed by Levitating down.
+
+Flip the lever to the right, to remove the Brazier.
+
+\
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (3).png>)
 
 <figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 

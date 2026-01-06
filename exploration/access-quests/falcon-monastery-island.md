@@ -84,7 +84,9 @@ Player: Mission
 Dalbrect: Amazing! You have proven yourself worthy. Just say Falcon and I'll take you to the isle.
 ```
 
-Now you can access **Falcons Island**. For the next mission you will need to get a tank and a good team. You will face a lot of **Falcon Knight and Falcon Paladin**.
+Now you can access **Falcons Island and it's bosses.**
+
+&#x20;For the next mission you will need to get a tank and a good team. You will face a lot of **Falcon Knight and Falcon Paladin**.
 
 For your last mission you will need to go back to the **Knights Area** in **Thais**. Speak with Gregor and ask him about a mission.
 
@@ -129,4 +131,4 @@ Player: Mission
 Gregor: Excellent work citizen! I will grant you access to the lower floors on Falcon Isle!
 ```
 
-Now you gained access to **Oberon**.
+This finished the quest.
