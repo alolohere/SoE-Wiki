@@ -6,9 +6,11 @@ coverY: 0
 # Xerkar
 
 **Level Required:** 150\
-**Prerequisites:** [Zathroth](zathroth.md)
+**Prerequisite:** [Eliminate 400 Lava Dragons](blue-crystal-lava-dragon-access.md)
 
-#### Part one: Xerkar <a href="#part_onexerkar" id="part_onexerkar"></a>
+
+
+Part one: Xerkar
 
 <figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
