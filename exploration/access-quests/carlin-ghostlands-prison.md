@@ -12,11 +12,11 @@ Completing this quest grant access to: Carlin Ghostlands Prison
 
 Go find **A Sad Ghost** located west of Carlin in the Ghostlands.
 
-<p align="center"><img src="../../.gitbook/assets/image (1) (1).png" alt=""><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""></p>
 
 He will ask you for your help in retrieving an item from the top of the house nearby.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once inside you will have to navigate several puzzles that will teleport you back to the entrance if you fail.
 

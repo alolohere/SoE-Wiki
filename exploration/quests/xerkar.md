@@ -21,7 +21,7 @@ Head to the Demon Helmet Quest Path with the side area accessed by Levitating do
 Flip the lever to the right, to remove the Brazier.
 
 \
-![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (1).png>)![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (1) (1).png>)![](<../../.gitbook/assets/image (2) (1).png>)![](<../../.gitbook/assets/image (3).png>)
 
 <figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 

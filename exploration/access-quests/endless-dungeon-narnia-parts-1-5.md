@@ -157,6 +157,16 @@ When the stone its open go the way back and find the opened gate (marked before 
 
 <figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
+
+
+Note: This is also where you can gain access to the Grand Warlock Spawn as well by having someone stand on the pressure plate on the West side and entering the portal behind rocks on the North side that opens.
+
+![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (1).png>)
+
+
+
+
+
 At the end of the way you will have to face the Ancient Pharaoh. Recommended to bring shooters.
 
 <figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
