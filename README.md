@@ -1,7 +1,26 @@
 ---
 icon: book-blank
-cover: .gitbook/assets/rexis_2.jpg
-coverY: -95.82610957731588
+cover: .gitbook/assets/Screenshot_2.png
+coverY: -11.182022471910104
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Souls of Elysium Wiki!
